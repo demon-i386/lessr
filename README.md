@@ -29,3 +29,9 @@ A simple ransomware implementation in Golang that utilizes the Rabbit stream cip
 
 - [ ] Encrypt network drives
 - [ ] Encrypt mounted disks
+
+---
+
+### 👥 Colaborator
+
+  [@c6xk](https://github.com/c6xk)
