@@ -1,8 +1,23 @@
 # lessr
-Simple golang ransomware / rabbit cipher
 
-generate new keys with: https://github.com/pedroalbanese/obfuse
-obfuscate binary with: https://github.com/burrowers/garble
-build with: ./build.sh
+**Simple Golang Ransomware using Rabbit Cipher**
 
-rabbit cipher paper: https://cr.yp.to/streamciphers/rabbit/desc.pdf
+---
+
+### 🔐 Description
+
+A simple ransomware implementation in Golang that utilizes the Rabbit stream cipher for encryption.
+
+---
+
+### 🛠 Usage
+
+- **Generate new keys:**  
+  [pedroalbanese/obfuse](https://github.com/pedroalbanese/obfuse)
+
+- **Obfuscate binary:**  
+  [burrowers/garble](https://github.com/burrowers/garble)
+
+- **Build project:**  
+  ```bash
+  ./build.sh
